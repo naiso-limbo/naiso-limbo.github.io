@@ -310,8 +310,8 @@ input[type="button"], input[type="submit"], input[type="reset"], button {
 .btn-custom.btn-yellow.btn-border, input[type="button"].btn-yellow.btn-border, input[type="submit"].btn-yellow.btn-border, input[type="reset"].btn-yellow.btn-border, button.btn-yellow.btn-border { color:#feac00 !important; }
 .btn-custom:hover, input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover, button:hover, .btn-custom.btn-blue:hover, input[type="button"].btn-blue:hover, input[type="submit"].btn-blue:hover, input[type="reset"].btn-blue:hover, button.btn-blue:hover {
 	color:#FFF !important;
-	background-color:#205bf1;
-	border-color:#205bf1;
+	background-color:#1b1c33;
+	border-color:#1b1c33;
 }
 .btn-custom.btn-green:hover, input[type="button"].btn-green:hover, input[type="submit"].btn-green:hover, input[type="reset"].btn-green:hover, button.btn-green:hover {
 	color:#FFF !important;
@@ -1775,8 +1775,8 @@ img.parallax-slider.loaded, .ie img.parallax-slider, .ie9 img.parallax-slider {
 			}
 			#footer .affa-form-contact .form-contact-submit input[type="submit"]:hover, #footer .affa-form-contact .form-contact-submit input[type="submit"].btn-blue:hover {
 				color:#FFF !important;
-				background-color:#205bf1;
-				border-color:#205bf1;
+				background-color:#1b1c33;
+				border-color:#1b1c33;
 			}
 			#footer .affa-form-contact .form-contact-submit input[type="submit"]:disabled, #footer .affa-form-contact .form-contact-submit input[type="submit"].btn-blue:disabled {
 				color:#a9a9a9 !important;
